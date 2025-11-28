@@ -93,7 +93,7 @@ const About = () => {
               <div className="flex justify-between">
                 <span className="text-slate-400">College</span>
                 <span className="text-slate-100 text-right">
-                  SRM Valliammai engineering college
+                  SRM Valliammai Engineering College
                   <br />
                   AI &amp; DS
                 </span>
@@ -108,7 +108,7 @@ const About = () => {
 
             <p className="mt-4 text-xs text-slate-400 italic">
               &quot;Small consistent progress today becomes the version of me
-              that reaches Google tomorrow.&quot;
+              that reaches well tomorrow.&quot;
             </p>
           </div>
 
