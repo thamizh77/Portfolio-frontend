@@ -1,13 +1,13 @@
 const Experience = () => {
   const timeline = [
     {
-      year: "2024 - Present",
+      year: "2024 - 2028",
       title: "B.Tech AI & Data Science",
       place: "SRM Valliammai Engineering College",
       desc: "Building strong foundations in programming, data structures, AI and software engineering.",
     },
     {
-      year: "2024",
+      year: "2025-Present",
       title: "MERN Stack Training",
       place: "Error Makes Clever Academy",
       desc: "Learning full-stack development with React, Node.js, Express and MongoDB through hands-on projects.",
