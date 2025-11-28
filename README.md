@@ -19,7 +19,7 @@ This is the React-based frontend of my personal developer portfolio built as par
 
 ### 🔗 Live Demo
 🌍 **Vercel Deployment:**  
-➡️ https://your-portfolio-frontend.vercel.app/
+➡️ https://your-portfolio-frontend.vercel.app/](https://portfolio-frontend-seven-self.vercel.app/
 
 ---
 
