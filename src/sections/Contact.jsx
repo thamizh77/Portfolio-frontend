@@ -161,7 +161,7 @@ const Contact = () => {
 
           {status === "success" && (
             <p className="mt-3 text-green-400 text-sm">
-              Message sent successfully ✔
+              Message sent successfully
             </p>
           )}
 
