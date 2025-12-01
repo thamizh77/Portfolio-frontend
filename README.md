@@ -1,16 +1,45 @@
-# React + Vite
+## 🌐 Frontend – Developer Portfolio (Client)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the React-based frontend of my personal developer portfolio built as part of a full-stack MERN application. The frontend showcases my professional journey, skills, projects, and achievements with a modern and responsive UI. It integrates with a backend API for dynamic project data and contact form submissions.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### 🧰 Tech Stack
 
-## React Compiler
+| Technology | Used For |
+|-----------|----------|
+| React | Frontend UI development |
+| Vite / CRA | Build tool & project setup |
+| Tailwind CSS / CSS | Styling |
+| Axios / Fetch API | API calls |
+| React Router | Navigation |
+| Vercel | Deployment |
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the ESLint configuration
+### 🔗 Live Demo
+🌍 **Vercel Deployment:**  
+➡️ https://your-portfolio-frontend.vercel.app/](https://portfolio-frontend-seven-self.vercel.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+### 📦 Repository
+🗂️ **GitHub Repo:**  
+➡️ https://github.com/thamizh77/Portfolio-frontend
+
+---
+
+### 🔥 Key Features
+- Modern, responsive and mobile-friendly UI
+- Dynamic project rendering from backend
+- Contact form with API integration
+- Clean code and reusable components
+- Smooth navigation with React Router
+
+---
+
+### 🚀 Purpose
+This frontend highlights my portfolio as a software developer and demonstrates my ability to create visually appealing and scalable web applications using the MERN stack.
+
+---
+
