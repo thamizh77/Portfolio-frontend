@@ -38,7 +38,7 @@ const Navbar = () => {
           onClick={() => scrollToSection("Home")}
           className="text-xl md:text-2xl font-bold tracking-tight bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent"
         >
-          Thamizh<span className="text-slate-200"></span>
+          Vishesh K<span className="text-slate-200"></span>
         </button>
 
         {/* Desktop links */}

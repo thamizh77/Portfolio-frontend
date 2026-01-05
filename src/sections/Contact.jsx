@@ -97,11 +97,11 @@ const Contact = () => {
 
             <div>
               <span className="text-slate-400">Email</span>
-              <p className="text-cyan-300">jrthamizh2006@gmail.com</p>
+              <p className="text-cyan-300">visheshk@gmail.com</p>
             </div>
             <div>
   <span className="text-slate-400">Mobile</span>
-  <p className="text-cyan-300">+91 8072025221</p>
+  <p className="text-cyan-300">+91 9566196818</p>
 </div>
 
             <div>
