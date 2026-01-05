@@ -19,11 +19,11 @@ const About = () => {
   </h2>
 
   <p className="text-sm md:text-base text-slate-300 leading-relaxed mb-4">
-    I&apos;m <span className="text-cyan-300 font-medium">Vishesh K</span>, a 
+    I&apos;m <span className="text-cyan-300 font-medium">Thamizh D</span>, a 
     2nd year <span className="text-cyan-300 font-medium">
-    Electronic Communication &amp; Engineering
-    </span> student at SRM IST. I&apos;m passionate 
-    about <span className="text-cyan-300 font-medium">full stack development</span> 
+    Artificial Intelligence &amp; Data Science
+    </span> student at SRM VEC. I&apos;m passionate 
+    about <span className="text-cyan-300 font-medium">full stack development </span> 
     using the MERN stack.
   </p>
 
@@ -84,7 +84,7 @@ const About = () => {
             <div className="space-y-3 text-sm">
               <div className="flex justify-between">
                 <span className="text-slate-400">Name</span>
-                <span className="text-slate-100">Vishesh K</span>
+                <span className="text-slate-100">Thamizh D</span>
               </div>
               <div className="flex justify-between">
                 <span className="text-slate-400">Role</span>
@@ -93,9 +93,9 @@ const About = () => {
               <div className="flex justify-between">
                 <span className="text-slate-400">College</span>
                 <span className="text-slate-100 text-right">
-                  SRM IST
+                  SRM VEC
                   <br />
-                  Electronic communication &amp; Engineering
+                  Artificial Intelligence &amp; Data Science
                 </span>
               </div>
               <div className="flex justify-between">

@@ -1,6 +1,5 @@
 import { motion } from "framer-motion";
-import profile from "../assets/IO.jpeg"; // your profile image
-
+import profile from "../assets/logo.jpg"; // your profile image
 const Hero = () => {
   return (
     <section
@@ -30,7 +29,7 @@ const Hero = () => {
           >
             Hi, I&apos;m{" "}
             <span className="bg-gradient-to-r from-indigo-400 to-cyan-400 bg-clip-text text-transparent">
-              Vishesh K
+              Thamizh D
             </span>
             <br />
             <span className="text-slate-300 dark:text-slate-800 text-2xl md:text-3xl">
